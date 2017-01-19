@@ -16,7 +16,7 @@ title: Home
 * Built-in games library (with system filters and dynamic search)
 * ROM scanner (for games library import)
 * Game data (images, manuals etc) scraping
-* Automatic ROM detection based on NOINTRO & TOSEC DAT releases (so the games library is auto-populated with year and publisher without having to scrape from an external source)
+* Automatic ROM detection based on NOINTRO & TOSEC DAT releases (so the games library is auto-populated with year, publisher etc. without having to scrape from an external source)
 * Manual import of disk-based games (both single and multiple disk games with auto-m3u playlist generation)
 * (Nearly) All Mednafen command line parameters available and configurable
 * So far uses only Mednafen command line options (and not local configuration files)
