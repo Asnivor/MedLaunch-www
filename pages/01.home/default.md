@@ -5,7 +5,7 @@ title: Home
 # MedLaunch
 ## A Windows Front-End for Mednafen
 
-**MedLaunch** is a .NET (Windows only) front-end for the excellent [Mednafen](http://mednafen.fobby.net/) multi-system emulator. I'm not a developer by profession so it started as a means to learn a bit more about C# .NET and to start learning about Windows Presentation Foundation (WPF). 
+**MedLaunch** is a .NET (Windows only) front-end for the excellent [Mednafen](http://mednafen.fobby.net/) multi-system emulator. It is developed in C# .NET using the Windows Presentation Foundation (WPF). 
 
 ! Please Note: You should consider this software beta at the moment.
 
@@ -16,15 +16,16 @@ title: Home
 * Built-in games library (with system filters and dynamic search)
 * ROM scanner (for games library import)
 * Game data (images, manuals etc) scraping
+* Automatic ROM detection based on NOINTRO & TOSEC DAT releases (so the games library is auto-populated with year and publisher without having to scrape from an external source)
 * Manual import of disk-based games (both single and multiple disk games with auto-m3u playlist generation)
 * (Nearly) All Mednafen command line parameters available and configurable
 * So far uses only Mednafen command line options (and not local configuration files)
-* Optional per-system configuration options
+* Per-system configuration options
 * Built-in browser control with links to Mednafen help pages
 * Built-in static netplay server selection along with the ability to specify a custom Mednafen netplay server to connect to
 
 ### Broken Features
-* The launcher currently only handles absolute paths correctly. Relative path handling may or may not work but this part of the code needs a proper overhaul
+* The launcher currently only handles absolute paths correctly. This means that it is not truely portable. It however only use its own directory for storing any generated files
 
 ### To Do
 * Implement scanning (and importing into the games library) of disk images (currently only manual import is available)
