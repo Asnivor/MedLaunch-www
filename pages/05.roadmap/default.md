@@ -7,9 +7,6 @@ title: Roadmap
 
 Current open buglist can be found on the project [**GitHub tracker**.](https://github.com/Asnivor/MedLaunch/issues)
 
-### By next major release (v0.4.x.x)
-* Parse Mednafen help files for configuration settings tool-tips
-
 ### By release (v0.5.x.x)
 * Option to run directly from Mednafen config files
 * Video capture/Twitch streaming module
