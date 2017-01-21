@@ -6,10 +6,15 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-** Master Branch is currently not compatible with released versions of Mednafen. Please wait until the new Mednafen release if you want to build yourself and test. **
-* Implemented config control changes for the upcoming Mednafen release
+* None as yet
+
+##### [0.4.0.0](http://medlaunch.asnitech.co.uk/releases/0-4-0-0)
+###### 2017-01-21
+* ** Only compatible with version 0.9.41.x of Mednafen **
+* Implemented config control changes for the latest Mednafen release
 * Added a Mednafen version check on game launch (to avoid errors with wrong versions)
 * Fixed some minor errors in the Mednafen config control names
+* Added tooltips on config controls based on Mednafen documentation (can be turned off/on in settings)
 
 ##### [0.3.1.0](http://medlaunch.asnitech.co.uk/releases/0-3-1-0)
 ###### 2017-01-09
