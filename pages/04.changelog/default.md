@@ -6,7 +6,9 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-* Added new config controls for mednafen 0.9.42
+* Added new config controls for mednafen 0.9.42 (snes_faust multitap and additional virtual controller selection)
+* Fixed a few small UI bugs
+* Modified the update checker to use github's API rather than individually generated json files
 
 ##### [0.4.0.0](http://medlaunch.asnitech.co.uk/releases/0-4-0-0)
 ###### 2017-01-21
