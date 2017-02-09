@@ -8,6 +8,7 @@ title: Changelog
 ------------------------------------
 * Fixed launcher crash when clicking the 'rescrape game' button if game has not been scraped before
 * Changed 'Disks' to 'Discs' in games library menu
+* Fixed arbitrary game launch when double-clicking on the games library scrollbars
 
 ##### [0.4.1.0](http://medlaunch.asnitech.co.uk/releases/0-4-1-0)
 ###### 2017-02-09
