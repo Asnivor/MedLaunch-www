@@ -7,6 +7,7 @@ title: Changelog
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
 * Fixed launcher crash when clicking the 'rescrape game' button if game has not been scraped before
+* Changed 'Disks' to 'Discs' in games library menu
 
 ##### [0.4.1.0](http://medlaunch.asnitech.co.uk/releases/0-4-1-0)
 ###### 2017-02-09
