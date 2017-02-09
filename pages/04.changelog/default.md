@@ -6,7 +6,7 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-* None as yet
+* Added new config controls for mednafen 0.9.42
 
 ##### [0.4.0.0](http://medlaunch.asnitech.co.uk/releases/0-4-0-0)
 ###### 2017-01-21
