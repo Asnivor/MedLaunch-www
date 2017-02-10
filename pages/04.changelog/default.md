@@ -9,6 +9,8 @@ title: Changelog
 * Fixed launcher crash when clicking the 'rescrape game' button if game has not been scraped before
 * Changed 'Disks' to 'Discs' in games library menu
 * Fixed arbitrary game launch when double-clicking on the games library scrollbars
+* Implemented 7zip archive support for non-disc systems (roms are extracted to local cache folder before game launch)
+* Added new setting to clear rom cache folder on application exit (enabled by default)
 
 ##### [0.4.1.0](http://medlaunch.asnitech.co.uk/releases/0-4-1-0)
 ###### 2017-02-09
