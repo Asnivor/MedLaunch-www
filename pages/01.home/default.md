@@ -21,8 +21,6 @@ title: Home
 <a href="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/colorselector.png"><img src="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/colorselector.png" width="150" /></a>
 </div>
 
-[http://medlaunch.asnitech.co.uk/](http://medlaunch.asnitech.co.uk/)
-
 **MedLaunch** is a .NET (Windows only) front-end for the excellent [Mednafen](http://mednafen.fobby.net/) multi-system emulator. 
 
 ! Please Note: You should consider this software beta.
