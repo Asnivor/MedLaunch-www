@@ -4,7 +4,7 @@ title: Home
 
 # MedLaunch
 ## A Windows Front-End for Mednafen
-
+<div align="center">
 <a href="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/games01.png"><img src="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/games01.png" width="150" /></a>
 <a href="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/games02.png"><img src="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/games02.png" width="150" /></a>
 <a href="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/romscanner01.png"><img src="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/romscanner01.png" width="150" /></a>
@@ -19,7 +19,7 @@ title: Home
 <a href="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/help01.png"><img src="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/help01.png" width="150" /></a>
 <a href="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/help02.png"><img src="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/help02.png" width="150" /></a>
 <a href="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/colorselector.png"><img src="http://medlaunch.asnitech.co.uk/user/pages/03.screenshots/colorselector.png" width="150" /></a>
-
+</div>
 
 [http://medlaunch.asnitech.co.uk/](http://medlaunch.asnitech.co.uk/)
 
