@@ -11,7 +11,9 @@ title: Changelog
 * Fixed arbitrary game launch when double-clicking on the games library scrollbars
 * Implemented 7zip archive support for non-disc systems (roms are extracted to local cache folder before game launch) - one rom per archive file
 * Added new setting to clear rom cache folder on application exit (enabled by default)
-* Changed 'top-right' buttons to a dropdown-menu layout and added an option to open the MedLaunch unhandled exception log (if one if present)
+* Added an option to open the MedLaunch unhandled exception log (if one if present)
+* Merged the 'top-right' title-bar buttons into a new (more standard) 'top-left' dropdown menu system
+* Duplicated some of the ROM scanning functions in the top menu
 
 ##### [0.4.1.0](http://medlaunch.asnitech.co.uk/releases/0-4-1-0)
 ###### 2017-02-09
