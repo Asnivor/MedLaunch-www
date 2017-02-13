@@ -10,6 +10,11 @@ content:
     url_taxonomy_filters: true
 ---
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2823741553601101"
+     data-ad-slot="6587042289"
+     data-ad-format="auto"></ins>
 # Releases
 ## All MedLaunch Public Releases
 
