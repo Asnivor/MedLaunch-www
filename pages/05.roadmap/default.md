@@ -15,7 +15,6 @@ Current open buglist can be found on the project [**GitHub tracker**.](https://g
 * Option to convert Megadrive/Genesis .smd files to the Mednafen supported .bin format
 
 ### Further out
-* Expand on ZIP archive support to include 7z files
 * Auto-scanning and import of games for disk based systems (Saturn, Psx, PC-Engine, PCFX)
 * Game-specific config-options
 
