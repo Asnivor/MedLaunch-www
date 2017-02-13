@@ -6,6 +6,11 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
+* None as yet
+
+##### [0.4.2.0](http://medlaunch.asnitech.co.uk/releases/0-4-2-0)
+###### 2017-02-13
+* ** Only compatible with version 0.9.42.x of Mednafen (although 0.9.41 will probably still launch games) **
 * Fixed launcher crash when clicking the 'rescrape game' button if game has not been scraped before
 * Changed 'Disks' to 'Discs' in games library menu
 * Fixed arbitrary game launch when double-clicking on the games library scrollbars
