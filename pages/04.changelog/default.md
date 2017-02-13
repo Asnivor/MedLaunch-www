@@ -16,6 +16,7 @@ title: Changelog
 * Duplicated some of the ROM scanning functions in the top menu
 * Added top-menu option to locate and launch a game through the filesystem (bypassing MedLaunch config database options meaning the game launches using the Mednafen config files on-disk)
 * Moved hidden debug options to new hidden top-right debug menu (visible in Visual Studio debug-mode only)
+* Fixed 'Unscraped Games' filter in games library
 
 ##### [0.4.1.0](http://medlaunch.asnitech.co.uk/releases/0-4-1-0)
 ###### 2017-02-09
