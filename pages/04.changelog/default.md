@@ -17,6 +17,7 @@ title: Changelog
 * Added top-menu option to locate and launch a game through the filesystem (bypassing MedLaunch config database options meaning the game launches using the Mednafen config files on-disk)
 * Moved hidden debug options to new hidden top-right debug menu (visible in Visual Studio debug-mode only)
 * Fixed 'Unscraped Games' filter in games library
+* Swapped text boxes that require decimal input for NumericUpDown controls (so that decimal and negative numbers can be entered by hand)
 
 ##### [0.4.1.0](http://medlaunch.asnitech.co.uk/releases/0-4-1-0)
 ###### 2017-02-09
