@@ -6,7 +6,7 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-* Implemented option to choose games library column visibility on a per-system basis
+* Implemented option to choose games library column visibility on a per-system basis (in top-left menu and settings page)
 * Added new MedLaunch icon
 
 ##### [0.4.2.0](http://medlaunch.asnitech.co.uk/releases/0-4-2-0)
