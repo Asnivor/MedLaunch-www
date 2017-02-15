@@ -9,6 +9,7 @@ title: Changelog
 * Implemented option to choose games library column visibility on a per-system basis (in top-left menu and settings page)
 * Added new MedLaunch icon and 'Loading' splash-screen
 * Fixed default system videoip and x/y scale values
+* Changes made on 'Settings' tab are now automatically saved in realtime (and the 'Save Settings' button has been removed)
 
 ##### [0.4.2.0](http://medlaunch.asnitech.co.uk/releases/0-4-2-0)
 ###### 2017-02-13
