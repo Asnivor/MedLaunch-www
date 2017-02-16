@@ -23,8 +23,6 @@ title: Home
 
 **MedLaunch** is a .NET (Windows only) front-end for the excellent [Mednafen](http://mednafen.fobby.net/) multi-system emulator. 
 
-! Please Note: You should consider this software beta.
-
 ### Features
 * Responsive GUI that allows for a wide range of monitor resolutions
 * No installation required
