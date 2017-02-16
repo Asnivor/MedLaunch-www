@@ -10,6 +10,7 @@ title: Changelog
 * Added new MedLaunch icon and 'Loading' splash-screen
 * Fixed default system videoip and x/y scale values
 * Changes made on 'Settings' tab are now automatically saved in realtime (and the 'Save Settings' button has been removed)
+* Added a games library right-click option to view/edit the Mednafen launch string before the game runs
 
 ##### [0.4.2.0](http://medlaunch.asnitech.co.uk/releases/0-4-2-0)
 ###### 2017-02-13
