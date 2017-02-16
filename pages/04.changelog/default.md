@@ -11,6 +11,7 @@ title: Changelog
 * Fixed default system videoip and x/y scale values
 * Changes made on 'Settings' tab are now automatically saved in realtime (and the 'Save Settings' button has been removed)
 * Added a games library right-click option to view/edit the Mednafen launch string before the game runs
+* Added (in top-left menu system) an option to Audit the Scraped Data Folder (so that you can determine which folder is for which game regardless of whether that data is currently liked to a game in the games library)
 
 ##### [0.4.2.0](http://medlaunch.asnitech.co.uk/releases/0-4-2-0)
 ###### 2017-02-13
