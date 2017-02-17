@@ -6,7 +6,7 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-* [Bugfix] Fixed exception(crash) caused by mednafen application not being properly initialised before importing configs into MedLaunch
+* (Bugfix) Fixed exception(crash) caused by mednafen application not being properly initialised before importing configs into MedLaunch
 * [Bugfix] Added null-check on netplay servers datagrid (mitigates application exception if the database didnt initialise correctly with the pre-defined servers)
 * [Bugfix] Fixed localisation lookup issue when attempting to determine the mednafen version from the mednafen output log (stdout.txt)
 
