@@ -9,6 +9,7 @@ title: Changelog
 * (Bugfix) Fixed exception(crash) caused by mednafen application not being properly initialised before importing configs into MedLaunch
 * (Bugfix) Added null-check on netplay servers datagrid (mitigates application exception if the database didnt initialise correctly with the pre-defined servers)
 * (Bugfix) Fixed localisation lookup issue when attempting to determine the mednafen version from the mednafen output log (stdout.txt)
+* (Addition) Added another public netplay server to the list
 
 ##### [0.4.3.0](http://medlaunch.asnitech.co.uk/releases/0-4-3-0)
 ###### 2017-02-16
