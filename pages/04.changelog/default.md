@@ -13,6 +13,7 @@ title: Changelog
 
 ##### [0.4.3.1](http://medlaunch.asnitech.co.uk/releases/0-4-3-1)
 ###### 2017-02-17
+* ** Only compatible with version 0.9.42.x of Mednafen (although 0.9.41 will probably still launch games) **
 * (Bugfix) Fixed exception(crash) caused by mednafen application not being properly initialised before importing configs into MedLaunch
 * (Bugfix) Added null-check on netplay servers datagrid (mitigates application exception if the database didnt initialise correctly with the pre-defined servers)
 * (Bugfix) Fixed localisation lookup issue when attempting to determine the mednafen version from the mednafen output log (stdout.txt)
