@@ -6,7 +6,10 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-* None as yet
+* Fixed some spelling mistakes
+* Removed duplicate scanning commands from the top-left menu (still present in games library filter context menus)
+* (Feature) Added option (under top-left menu 'Visual') to show/hide specific mednafen systems in the launcher
+* (Feature) Added right-click context menu options to the 'favorites' filter to 'Scrape previously unscraped games' and 'Re-scrape all games'. This is a similar process to the other system filter scraping options
 
 ##### [0.4.3.1](http://medlaunch.asnitech.co.uk/releases/0-4-3-1)
 ###### 2017-02-17
