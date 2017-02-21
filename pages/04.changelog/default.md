@@ -12,6 +12,7 @@ title: Changelog
 * (Feature) Added right-click context menu options to the 'favorites' filter to 'Scrape previously unscraped games' and 'Re-scrape all games'. This is a similar process to the other system filter scraping options
 * (Feature) Enabled multi-select of games in the library along with additional context menu for multiple games (add/remove from favorites, auto-scrape and delete games)
 * (Feature) Added option (to Settings>Emulator Engine) to automatically save and set the mednafen windows position on a per-system basis (disabled by default)
+* Also added button to remove all saved mednafen window positions (in case of a screw up)
 
 ##### [0.4.3.1](http://medlaunch.asnitech.co.uk/releases/0-4-3-1)
 ###### 2017-02-17
