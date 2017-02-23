@@ -5,10 +5,10 @@ title: Changelog
 # Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
-
+------------------------------------
 **Note: the master branch is currently targeting upcoming Mednafen release**
 _(some things may not work as expected with mednafen 0.9.42)_
-------------------------------------
+
 * (Fixed) Fixed some spelling mistakes
 * (Removal) Removed duplicate scanning commands from the top-left menu (still present in games library filter context menus)
 * (Feature) Added option (under top-left menu 'Visual') to show/hide specific mednafen systems in the launcher
