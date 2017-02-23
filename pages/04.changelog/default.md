@@ -7,7 +7,6 @@ title: Changelog
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
 **Note: the master branch is currently targeting upcoming Mednafen release**
-
 _(some things may not work as expected with mednafen 0.9.42)_
 
 * (Fixed) Fixed some spelling mistakes
