@@ -13,6 +13,7 @@ title: Changelog
 * (Feature) Enabled multi-select of games in the library along with additional context menu for multiple games (add/remove from favorites, auto-scrape and delete games)
 * (Feature) Added option (to Settings>Emulator Engine) to automatically save and set the mednafen windows position on a per-system basis (disabled by default)
 * Also added button to remove all saved mednafen window positions (in case of a screw up)
+* (BugFix) Fixed missing snes.input.port3-8.gampad controls
 
 ##### [0.4.3.1](http://medlaunch.asnitech.co.uk/releases/0-4-3-1)
 ###### 2017-02-17
