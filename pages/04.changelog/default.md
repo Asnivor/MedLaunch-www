@@ -18,6 +18,8 @@ _(some things may not work as expected with mednafen 0.9.42)_
 * Also added button to remove all saved mednafen window positions (in case of a screw up)
 * (BugFix) Fixed missing snes.input.port3-8.gampad controls
 * (Change) Log files now open in the system default text editor (falling back to notepad if there isnt one set)
+* (BugFix) Fixed intermittent exceptions caused by save to clipboard functions
+* (BugFix) Added 'Sound Device' textbox to config tab (accidentaly left out of the initial UI build)
 
 ##### [0.4.3.1](http://medlaunch.asnitech.co.uk/releases/0-4-3-1)
 ###### 2017-02-17
