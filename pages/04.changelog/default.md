@@ -6,7 +6,7 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-* None as yet
+* (BugFix) Handle exception that is generated when MedLaunch is set to remember the mednafen windows position but medlaunch doesnt start correctly
 
 ##### [0.4.4.0](http://medlaunch.asnitech.co.uk/releases/0-4-4-0)
 ###### 2017-02-26
