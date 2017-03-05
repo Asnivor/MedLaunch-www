@@ -7,6 +7,7 @@ title: Changelog
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
 * (BugFix) Handle exception that is generated when MedLaunch is set to remember the mednafen windows position but medlaunch doesnt start correctly
+* (BugFix) Enable SNES games to be launched (removed problem unneeded commands - snes.input.port3-port8)
 
 ##### [0.4.4.0](http://medlaunch.asnitech.co.uk/releases/0-4-4-0)
 ###### 2017-02-26
