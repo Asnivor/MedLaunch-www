@@ -8,6 +8,7 @@ title: Changelog
 ------------------------------------
 * (BugFix) Handle exception that is generated when MedLaunch is set to remember the mednafen windows position but medlaunch doesnt start correctly
 * (BugFix) Enable SNES games to be launched (removed problem unneeded commands - snes.input.port3-port8)
+* (Feature) Implemented mednafen historical compatibility. MedLaunch will now work with the latest version of mednafen back to v0.9.39
 
 ##### [0.4.4.0](http://medlaunch.asnitech.co.uk/releases/0-4-4-0)
 ###### 2017-02-26
