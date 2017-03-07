@@ -12,6 +12,7 @@ title: Changelog
 * (Feature) Game controls can now be configured from within MedLaunch under the 'Controls' tab. This attempts to mirror the way mednafen configures devices (xinput for compatible devices, directinput for keyboard and other gamepads/joysticks). This is currently experimental and any bugs should be reported
 * (BugFix) Scraper now handles underscores correctly
 * (Feature) Auto-scanning & import of disc games! (see release notes for caviats)
+* (Feature) On launch, psx game serial numbers are extracted from disc image(s) and an SBI file offered (if one is needed and available)
 
 ##### [0.4.4.0](http://medlaunch.asnitech.co.uk/releases/0-4-4-0)
 ###### 2017-02-26
