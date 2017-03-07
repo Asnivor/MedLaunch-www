@@ -11,6 +11,7 @@ title: Changelog
 * (Feature) Implemented mednafen historical compatibility. MedLaunch will now work with the latest version of mednafen back to v0.9.39
 * (Feature) Game controls can now be configured from within MedLaunch under the 'Controls' tab. This attempts to mirror the way mednafen configures devices (xinput for compatible devices, directinput for keyboard and other gamepads/joysticks). This is currently experimental and any bugs should be reported
 * (BugFix) Scraper now handles underscores correctly
+* (Feature) Auto-scanning & import of disc games! (see release notes for caviats)
 
 ##### [0.4.4.0](http://medlaunch.asnitech.co.uk/releases/0-4-4-0)
 ###### 2017-02-26
