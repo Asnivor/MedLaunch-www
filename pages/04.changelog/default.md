@@ -14,6 +14,7 @@ title: Changelog
 * (Feature) Auto-scanning & import of disc games! (see release notes for caviats)
 * (Feature) On launch, psx game serial numbers are extracted from disc image(s) and an SBI file offered (if one is needed and available)
 * (Feature) MedLaunch can now import multiple ROMs per archive (zip/7z) file (see release notes for restrictions)
+* (BugFix) Prevented exception caused by null values in the database netplay_servers table
 
 ##### [0.4.4.0](http://medlaunch.asnitech.co.uk/releases/0-4-4-0)
 ###### 2017-02-26
