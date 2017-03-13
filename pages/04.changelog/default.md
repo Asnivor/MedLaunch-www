@@ -6,6 +6,11 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
+* None as yet
+
+##### [0.5.0.0](http://medlaunch.asnitech.co.uk/releases/0-5-0-0)
+###### 2017-03-13
+* ** Now compatible with versions 0.9.39 through 0.9.43 of Mednafen **
 * (BugFix) Handle exception that is generated when MedLaunch is set to remember the mednafen windows position but medlaunch doesnt start correctly
 * (BugFix) Enable SNES games to be launched (removed problem unneeded commands - snes.input.port3-port8)
 * (Feature) Implemented mednafen historical compatibility. MedLaunch will now work with the latest version of mednafen back to v0.9.39
