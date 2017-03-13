@@ -16,7 +16,8 @@ title: Changelog
 * (Feature) MedLaunch can now import multiple ROMs per archive (zip/7z) file (see release notes for restrictions)
 * (BugFix) Prevented exception caused by null values in the database netplay_servers table
 * (BugFix) Fixed MedLaunch crash when trying to access mednafen's stdout.txt log file whilst mednafen is running
-* (Feature) PSX and Saturn games now have library details automatically populated on scan (by serial number lookup).
+* (Feature) PSX and Saturn games now have library details automatically populated on scan (by serial number lookup)
+* (Feature) Added country filter radiobuttons (ALL, USA, EUR, JPN) to the games library. These filters obviously only work if the 'Country' field has been populated (either by DAT lookup or scrape). There is also an option to hide these filters on the settings tab
 
 ##### [0.4.4.0](http://medlaunch.asnitech.co.uk/releases/0-4-4-0)
 ###### 2017-02-26
