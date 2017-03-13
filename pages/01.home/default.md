@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="http://medlaunch.asnitech.co.uk/MedLaunch_sm.png" height="80" />
+<img src="http://medlaunch.asnitech.co.uk/MedLaunch_sm.png" height="80" align="center" />
 # MedLaunch
 ## A Windows Front-End for Mednafen
 
