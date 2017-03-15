@@ -6,7 +6,7 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
-* None as yet
+* (BugFix) Added a horizontal scrollbar to the 'game stats' grid in the sidebar (kicks in automatically when the text overflows the right boundary)
 
 ##### [0.5.0.0](http://medlaunch.asnitech.co.uk/releases/0-5-0-0)
 ###### 2017-03-13
