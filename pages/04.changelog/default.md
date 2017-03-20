@@ -8,6 +8,7 @@ title: Changelog
 ------------------------------------
 * (BugFix) Added a horizontal scrollbar to the 'game stats' grid in the sidebar (kicks in automatically when the text overflows the right boundary)
 * (BugFix) Fixed exception when PSX serial number cannot be obtained during disc import
+* (BugFix) All Disc games are now marked as hidden during a disc-scan if they no longer exist on the file-system
 
 ##### [0.5.0.0](http://medlaunch.asnitech.co.uk/releases/0-5-0-0)
 ###### 2017-03-13
