@@ -2,12 +2,13 @@
 title: Compatibility
 ---
 
-MedLaunch releases are only compatible with certain Mednafen versions depending on the time of release. In general the latest version of MedLaunch will support the latest version of Mednafen. There is no backwards compatibility built into MedLaunch.
+Starting from MedLaunch v0.5.0.x mednafen versions 0.9.39.x through 0.9.43.x are supported. 
 
-Below is the current version compatibility matrix that describes this:
+For versions of MedLaunch older than 0.5.0.x you can find mednafen compatibility below:
 
 | MedLaunch Release | Mednafen Release | Status |
 | ----------------- | ---------------- | ---- |
+| [**0.5.0.x**](http://medlaunch.asnitech.co.uk/releases/0-5-0-0) | **[0.9.39.x](http://mednafen.fobby.net/releases/files/mednafen-0.9.39.2-win64.zip)** - **[0.9.43.x](https://mednafen.github.io/releases/files/mednafen-0.9.43-win64.zip)** | **RELEASED** |
 | [**0.4.4.x**](http://medlaunch.asnitech.co.uk/releases/0-4-4-0) | **[0.9.43.x](https://mednafen.github.io/releases/files/mednafen-0.9.43-win64.zip)** | **RELEASED** |
 | [**0.4.3.x**](http://medlaunch.asnitech.co.uk/releases/0-4-3-1) | **[0.9.42.x](https://mednafen.github.io/releases/files/mednafen-0.9.42-win64.zip)** | **RELEASED** |
 | [**0.4.2.x**](http://medlaunch.asnitech.co.uk/releases/0-4-2-0) | **[0.9.42.x](https://mednafen.github.io/releases/files/mednafen-0.9.42-win64.zip)** | **RELEASED** |
