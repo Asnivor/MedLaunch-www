@@ -9,6 +9,10 @@ title: Changelog
 * (BugFix) Added a horizontal scrollbar to the 'game stats' grid in the sidebar (kicks in automatically when the text overflows the right boundary)
 * (BugFix) Fixed exception when PSX serial number cannot be obtained during disc import
 * (BugFix) All Disc games are now marked as hidden during a disc-scan if they no longer exist on the file-system
+* (BugFix) Fixed intermittent exception on game scraping when thegamesdb.net does not return a game even though there is a game ID present
+* (Feature) Games library overhaul - implemented multi-tier sorting and library state saving (per system filter)
+* (Feature) Migrated gamesdb and mobygames json lookup files into a more manageable SQLite database
+* (Feature) Added compatibility with mednafen 0.9.44.1 (snes_faust aspect ratio commands, vb LED onstate option, Wonderswan config changes and new virtual gamepad device)
 
 ##### [0.5.0.0](http://medlaunch.asnitech.co.uk/releases/0-5-0-0)
 ###### 2017-03-13
