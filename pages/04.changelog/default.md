@@ -13,6 +13,7 @@ title: Changelog
 * (Feature) Games library overhaul - implemented multi-tier sorting and library state saving (per system filter)
 * (Feature) Migrated gamesdb and mobygames json lookup files into a more manageable SQLite database
 * (Feature) Added compatibility with mednafen 0.9.44.1 (snes_faust aspect ratio commands, vb LED onstate option, Wonderswan config changes and new virtual gamepad device)
+* (Feature) Added compatibility with mednafen 0.9.45.1 (ss lightgun selection and crosshair color for all virtual ports)
 
 ##### [0.5.0.0](http://medlaunch.asnitech.co.uk/releases/0-5-0-0)
 ###### 2017-03-13
