@@ -14,6 +14,7 @@ title: Changelog
 * (Feature) Migrated gamesdb and mobygames json lookup files into a more manageable SQLite database
 * (Feature) Added compatibility with mednafen 0.9.44.1 (snes_faust aspect ratio commands, vb LED onstate option, Wonderswan config changes and new virtual gamepad device)
 * (BugFix) Enabled lookup of Famicom Disk System games on thegamesdb.net (for scraping)
+* (BugFix) Games library view now updates correctly when disc-based games are manually added
 * (Feature) Added compatibility with mednafen 0.9.45.1 (ss lightgun selection and crosshair color for all virtual ports)
 
 ##### [0.5.0.0](http://medlaunch.asnitech.co.uk/releases/0-5-0-0)
