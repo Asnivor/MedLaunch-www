@@ -7,14 +7,12 @@ title: Roadmap
 
 Current open buglist can be found on the project [**GitHub tracker**.](https://github.com/Asnivor/MedLaunch/issues)
 
-### By release (v0.5.x.x)
+### By release (v0.6.x.x)
 * Option to run directly from Mednafen config files
 * Video capture/Twitch streaming module
-* SDL joystick integration (configuring Mednafen joypad controls from within MedLaunch)
 * Multi-language support
 * Option to convert Megadrive/Genesis .smd files to the Mednafen supported .bin format
 
 ### Further out
-* Auto-scanning and import of games for disk based systems (Saturn, Psx, PC-Engine, PCFX)
 * Game-specific config-options
 
