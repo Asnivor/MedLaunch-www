@@ -18,7 +18,6 @@ title: Changelog
 * (Feature) Added compatibility with mednafen 0.9.45.1 (ss lightgun selection and crosshair color for all virtual ports)
 * (BugFix) Fixed random exception on disc-scanning
 * (Feature) Added official MedLaunch netplay server into server list
-* (Removal) Removed 'Game Manuals' download functionality for the time being (this will be re-implemented in a future release). You can still manually add manuals to each game data folder though
 
 ##### [0.5.0.0](http://medlaunch.asnitech.co.uk/releases/0-5-0-0)
 ###### 2017-03-13
