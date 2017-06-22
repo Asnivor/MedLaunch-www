@@ -2,10 +2,6 @@
 title: Compatibility
 ---
 
-Starting from MedLaunch v0.5.0.x mednafen versions 0.9.39.x through 0.9.43.x are supported. 
-
-For versions of MedLaunch older than 0.5.0.x you can find mednafen compatibility below:
-
 | MedLaunch Release | Mednafen Release | Status |
 | ----------------- | ---------------- | ---- |
 | [**0.5.5.x**](http://medlaunch.asnitech.co.uk/releases/0-5-5-0) | **[0.9.39.x](http://mednafen.fobby.net/releases/files/mednafen-0.9.39.2-win64.zip)** - **[0.9.45.x](https://mednafen.github.io/releases/files/mednafen-0.9.45.1-win64.zip)** | **RELEASED** |
