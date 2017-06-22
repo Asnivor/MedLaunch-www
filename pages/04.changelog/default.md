@@ -6,6 +6,10 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
+* None as yet
+
+##### [0.5.5.0](http://medlaunch.asnitech.co.uk/releases/0-5-5-0)
+###### 2017-06-22
 * (BugFix) Added a horizontal scrollbar to the 'game stats' grid in the sidebar (kicks in automatically when the text overflows the right boundary)
 * (BugFix) Fixed exception when PSX serial number cannot be obtained during disc import
 * (BugFix) All Disc games are now marked as hidden during a disc-scan if they no longer exist on the file-system
