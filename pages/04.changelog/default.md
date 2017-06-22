@@ -8,6 +8,12 @@ title: Changelog
 ------------------------------------
 * None as yet
 
+##### [0.5.5.1](http://medlaunch.asnitech.co.uk/releases/0-5-5-1)
+###### 2017-06-22
+* **Minor bugfix release to rectify the following issues with 0.5.5.0:**
+* WonderSwan games now launch
+* 'Launch game and view/edit launch string' window text area is now properly visable on smaller resolutions
+
 ##### [0.5.5.0](http://medlaunch.asnitech.co.uk/releases/0-5-5-0)
 ###### 2017-06-22
 * (BugFix) Added a horizontal scrollbar to the 'game stats' grid in the sidebar (kicks in automatically when the text overflows the right boundary)
