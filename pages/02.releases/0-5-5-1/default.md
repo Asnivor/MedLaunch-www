@@ -4,7 +4,7 @@ title: 0.5.5.1
 
 [https://github.com/Asnivor/MedLaunch/releases/tag/0.5.5.0](https://github.com/Asnivor/MedLaunch/releases/tag/0.5.5.1)
 
-## Minor bugfix release to rectify the following issues with 0.5.5.0:
+##### Minor bugfix release to rectify the following issues with 0.5.5.0:
 * WonderSwan games now launch
 * 'Launch game and view/edit launch string' window text area is now properly visable on smaller resolutions
 
