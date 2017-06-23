@@ -6,6 +6,10 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
+* None as yet
+
+##### [0.5.5.2](http://medlaunch.asnitech.co.uk/releases/0-5-5-2)
+###### 2017-06-23
 * Fixed MobyScraper bug that was forcing MedLaunch into an infinite scraping loop and causing the application to hang
 
 ##### [0.5.5.1](http://medlaunch.asnitech.co.uk/releases/0-5-5-1)
