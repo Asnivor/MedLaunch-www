@@ -9,6 +9,7 @@ title: Changelog
 * (BugFix) Fixed edge-case bug where certain disc cue file would not be parsed properly (eg Valkyrie Profile)
 * (Feature) For multi-disc games added a context menu launch option to choose the disc you wish to boot from initially
 * (BugFix) Fixed issues with the older mednafen versions compatibility code
+* (Feature) Added sub-categorisation to the games library view (based on ROM extension). Gameboy/Gameboy Color, WSWAN/WSWAN-Color etc..
 
 ##### [0.5.5.2](http://medlaunch.asnitech.co.uk/releases/0-5-5-2)
 ###### 2017-06-23
