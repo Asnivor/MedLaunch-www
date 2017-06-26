@@ -1,5 +1,13 @@
 ---
 title: 0.5.5.2
+content:
+    items: '@self.children'
+    limit: '5'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 [https://github.com/Asnivor/MedLaunch/releases/tag/0.5.5.2](https://github.com/Asnivor/MedLaunch/releases/tag/0.5.5.2)
