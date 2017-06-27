@@ -10,34 +10,27 @@ content:
     url_taxonomy_filters: '1'
 ---
 
-[https://github.com/Asnivor/MedLaunch/releases/tag/0.5.5.2](https://github.com/Asnivor/MedLaunch/releases/tag/0.5.5.2)
+[https://github.com/Asnivor/MedLaunch/releases/tag/0.5.6.0](https://github.com/Asnivor/MedLaunch/releases/tag/0.5.6.0)
 
-#### 0.5.5.2 Fixes:
-* Fixed MobyScraper bug that was forcing MedLaunch into an infinite scraping loop and causing the application to hang
+#### Important Release Notes
 
-#### 0.5.5.1 Fixes:
-* WonderSwan games now launch
-* 'Launch game and view/edit launch string' window text area is now properly visable on smaller resolutions
+This release introduces a number of bugfixes, along with a games library context-menu option for multi-disc (m3u) games that allows you to pick the disc you want to launch mednafen with (implementing the mednafen '-which_medium' command).
 
-#### Important Release Notes (Major 0.5.5.x Release Branch)
-This release introduces support for the last two major Mednafen releases (0.9.44.x & 0.9.45.x) as well as a number of bugfixes and requested features implemented.
+Sub-categorisation of certain systems has also been implemented, meaning that you can easily tell apart and sort Gameboy/Gameboy Color, NGP/NGC, NES/FDS and WSWAN/WSWANC. Game scraping also now implements these sub-categories, along with a bunch of optimisations that should make the scraping more accurate.
 
-There has been also an almost complete re-write of the games library display code. This should improve performance, but also enables multi-column sorting (click one column to sort, then shift-click a second column for secondary sorting etc.). All column sorting and layout states are saved dynamically on a per-system filter basis.
+The other major implementation is the ability to download and extract the latest compatible version of Mednafen (x64). This also ties into the first-time initialisation of MedLaunch, enabling you to select or create an empty directory (rather than just an existing mednafen directory) and have MedLaunch automatically download and extract Mednafen.
 
-There is still a fair amount of stuff to implement, so please check the github [issues](https://github.com/Asnivor/MedLaunch/issues) page to see where we are at currently.
-
-There is also an official MedLaunch mednafen server running in the UK (this has been added to the server browser in MedLaunch as of this release). More details can be found here:
-[http://node.asnitech.co.uk/](http://node.asnitech.co.uk/)
+There is also (still) an official MedLaunch mednafen server running in the UK.  More details can be found here:
+[http://node.asnitech.co.uk/](http://node.asnitech.co.uk/) and the server is automatically listed in the server browser within MedLaunch.
 
 #### Notable Additions
-* (Feature) Games library overhaul - implemented multi-tier sorting and library state saving (per system filter)
-* (Feature) Migrated gamesdb and mobygames json lookup files into a more manageable SQLite database
-* (Feature) Added compatibility with mednafen 0.9.44.1 (snes_faust aspect ratio commands, vb LED onstate option, Wonderswan config changes and new virtual gamepad device)
-* (BugFix) Enabled lookup of Famicom Disk System games on thegamesdb.net (for scraping)
-* (BugFix) Games library view now updates correctly when disc-based games are manually added
-* (Feature) Added compatibility with mednafen 0.9.45.1 (ss lightgun selection and crosshair color for all virtual ports)
-* (Feature) Added official MedLaunch netplay server into server list
-* Numerous BugFixes - see the full [changelog](http://medlaunch.asnitech.co.uk/changelog) for more info.
+* (Feature) For multi-disc games added a context menu launch option to choose the disc you wish to boot from initially
+* (Feature) Added sub-categorisation to the games library view (based on ROM extension). Gameboy/Gameboy Color, WSWAN/WSWAN-Color etc..
+* (Feature) Megadrive/Genesis games scraping updated to use detected region (based on DAT lookup). Manual scrape where region is not explitly US or EUR/JPN displays results from both sets. Auto scrape performs the same, except the 'prefer genesis' scraping option is used to determine which system to auto-scrape if region info is not found
+* (BugFix) Improved auto-scraping accuracy (more accurate scrapes, less 'missed' games)
+* (Feature) Implemented code to check for, and manually download the latest compatible mednafen version (x64 only) and extract into configured mednafen folder (resides under the 'updates' tab)
+* (Feature) First time init now gives the option to choose/create a new directory (rather than just an existing mednafen directory) so that the latest compatible mednafen version can be downloaded and extracted (mednafen x64 only)
+* **Some other bugfixes that can be found in the [CHANGELOG](http://medlaunch.asnitech.co.uk/changelog)**
 
 #### New Install
 - Extract this release to a folder, run the 'MedLaunch.exe' executable and choose your Mednafen directory (must be the Mednafen 0.9.39 - 0.9.45  - 64-bit version is required if you want to emulate Saturn games). 
