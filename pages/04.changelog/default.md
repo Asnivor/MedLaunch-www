@@ -12,6 +12,9 @@ title: Changelog
 * (Feature) Added sub-categorisation to the games library view (based on ROM extension). Gameboy/Gameboy Color, WSWAN/WSWAN-Color etc..
 * (Feature) Megadrive/Genesis games scraping updated to use detected region (based on DAT lookup). Manual scrape where region is not explitly US or EUR/JPN displays results from both sets. Auto scrape performs the same, except the 'prefer genesis' scraping option is used to determine which system to auto-scrape if region info is not found
 * (BugFix) Improved auto-scraping accuracy (more accurate scrapes, less 'missed' games
+* (BugFix) Fixed first-time initialisation code (bugs in choosing mednafen directory
+* (Feature) Implemented code to check for, and manually download the latest compatible mednafen version (x64 only) and extract into configured mednafen folder (resides under the 'updates' tab)
+* (Feature) First time init now gives the option to choose/create a new directory (rather than just an existing mednafen directory) so that the latest compatible mednafen version can be downloaded and extracted (mednafen x64 only)
 
 ##### [0.5.5.2](http://medlaunch.asnitech.co.uk/releases/0-5-5-2)
 ###### 2017-06-23
