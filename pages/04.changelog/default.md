@@ -6,6 +6,10 @@ title: Changelog
 ------------------------------------
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
+* None as yet
+
+##### [0.5.6.0](http://medlaunch.asnitech.co.uk/releases/0-5-6-0)
+###### 2017-06-27
 * (BugFix) Fixed edge-case bug where certain disc cue file would not be parsed properly (eg Valkyrie Profile)
 * (Feature) For multi-disc games added a context menu launch option to choose the disc you wish to boot from initially
 * (BugFix) Fixed issues with the older mednafen versions compatibility code
