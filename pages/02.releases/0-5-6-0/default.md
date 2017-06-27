@@ -10,6 +10,8 @@ This release introduces a number of bugfixes, along with a games library context
 
 Sub-categorisation of certain systems has also been implemented, meaning that you can easily tell apart and sort Gameboy/Gameboy Color, NGP/NGC, NES/FDS and WSWAN/WSWANC. Game scraping also now implements these sub-categories, along with a bunch of optimisations that should make the scraping more accurate.
 
+###### In order for this to implement correctly you will have to rescan your affected ROMS
+
 The other major implementation is the ability to download and extract the latest compatible version of Mednafen (x64). This also ties into the first-time initialisation of MedLaunch, enabling you to select or create an empty directory (rather than just an existing mednafen directory) and have MedLaunch automatically download and extract Mednafen.
 
 There is also (still) an official MedLaunch mednafen server running in the UK.  More details can be found here:
