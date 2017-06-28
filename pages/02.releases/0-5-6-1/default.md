@@ -8,7 +8,6 @@ title: 0.5.6.1
 
 * (BugFix) Fixed re-occuring prompt (on whether or not to import settings from mednafen config files) on MedLaunch start. This will only happen once now
 * (Cleanup) Removed old MasterGames.json scrape file to make the release smaller (this is no longer needed)
-* (BugFix) Fixed issue where updates tab heading did not change when updates were available
 
 #### Important Release Notes (0.5.6.x Major Branch)
 
