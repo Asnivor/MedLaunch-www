@@ -7,6 +7,7 @@ title: Changelog
 #### Pre-Release Changes ([Master](https://github.com/Asnivor/MedLaunch) branch)
 ------------------------------------
 * (BugFix) Fixed re-occuring prompt (on whether or not to import settings from mednafen config files) on MedLaunch start. This will only happen once now
+* (Cleanup) Removed old MasterGames.json scrape file to make the release smaller (this is no longer needed)
 
 ##### [0.5.6.0](http://medlaunch.asnitech.co.uk/releases/0-5-6-0)
 ###### 2017-06-27
