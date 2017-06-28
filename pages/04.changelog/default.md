@@ -8,6 +8,10 @@ title: Changelog
 ------------------------------------
 * None as yet
 
+##### [0.5.6.2](http://medlaunch.asnitech.co.uk/releases/0-5-6-2)
+###### 2017-06-28
+* (BugFix) 'Updates' tab now changes properly depending on the updates that are available
+
 ##### [0.5.6.1](http://medlaunch.asnitech.co.uk/releases/0-5-6-1)
 ###### 2017-06-28
 * (BugFix) Fixed re-occuring prompt (on whether or not to import settings from mednafen config files) on MedLaunch start. This will only happen once now
